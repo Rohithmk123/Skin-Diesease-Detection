@@ -1,0 +1,19 @@
+# Python/Colab ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.DS_Store
+# Ignore dataset if large/uncommitted
+data/
+drive/
+# Gradio temp
+gradio_cached_examples/

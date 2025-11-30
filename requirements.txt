@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+keras
+opencv-python
+matplotlib
+numpy
+gradio
